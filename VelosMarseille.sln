@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelosMarseille", "VelosMarseille\VelosMarseille.csproj", "{22D8388F-F174-4605-9A41-AF838484547B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D8388F-F174-4605-9A41-AF838484547B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D8388F-F174-4605-9A41-AF838484547B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D8388F-F174-4605-9A41-AF838484547B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D8388F-F174-4605-9A41-AF838484547B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

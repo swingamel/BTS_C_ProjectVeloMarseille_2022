@@ -1,0 +1,11 @@
+D:\VelosMarseille\VelosMarseille\bin\Debug\VelosMarseille.exe.config
+D:\VelosMarseille\VelosMarseille\bin\Debug\VelosMarseille.exe
+D:\VelosMarseille\VelosMarseille\bin\Debug\VelosMarseille.pdb
+D:\VelosMarseille\VelosMarseille\obj\Debug\VelosMarseille.csproj.AssemblyReference.cache
+D:\VelosMarseille\VelosMarseille\obj\Debug\VelosMarseille.csproj.SuggestedBindingRedirects.cache
+D:\VelosMarseille\VelosMarseille\obj\Debug\VelosMarseille.Properties.Resources.resources
+D:\VelosMarseille\VelosMarseille\obj\Debug\VelosMarseille.csproj.GenerateResource.cache
+D:\VelosMarseille\VelosMarseille\obj\Debug\VelosMarseille.csproj.CoreCompileInputs.cache
+D:\VelosMarseille\VelosMarseille\obj\Debug\VelosMarseille.exe
+D:\VelosMarseille\VelosMarseille\obj\Debug\VelosMarseille.pdb
+D:\VelosMarseille\VelosMarseille\obj\Debug\VelosMarseille.Form1.resources
